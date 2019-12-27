@@ -5,7 +5,8 @@ Paper  [arXiv](https://arxiv.org/abs/1809.02736) | [NIPS2018](https://papers.nip
 
 ## Installation
 
-Anaconda
+- Anaconda
+
 This creates an Anaconda environment with Python 3.6 and CUDA libraries, and then installs TensorFlow and tensorflow-compression with GPU support:
 ```bash
 conda create --name py36 python=3.6 cudatoolkit=10.0 cudnn
