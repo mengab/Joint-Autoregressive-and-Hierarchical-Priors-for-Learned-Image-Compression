@@ -22,7 +22,7 @@ import tensorflow as tf
 import tensorflow_compression as tfc
 ```
 
-### Using a pre-trained model to compress an image
+### Using a pre-trained model to compress an image 
 
 Download the file and run:
 ```bash
