@@ -44,7 +44,7 @@ will be named like the input file, only with the appropriate file extension
 appended (any existing extensions will not be removed).
 
 ### Training your own model
-To train the model, you need to supply it with a dataset of RGB training images.
+To train the models, you need to supply it with a dataset of RGB training images.
 They should be provided in PNG format. Training can be as simple as the
 following command:
 ```bash
